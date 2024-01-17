@@ -1,13 +1,17 @@
 # NeSyGPT: A Unified Neural-Symbolic Framework for Structured Knowledge Querying with Large Language Model
------
+
+---
+
 ## 🌈 Model Architecture
+
 <img src="IMG/overview.png" width = 100% height = 100%/>
 
-
 ## 📕 Dependencies
+
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
+
 ## 💡 **Quick start**
 
 ```bash
@@ -34,6 +38,7 @@ pip install -r requirement.txt
 ```
 
 ## 📚 Code path
+
 <details>
     <summary>👈 🔎 Click</summary>
 
@@ -51,6 +56,7 @@ root
 ├── CGdata_for_tableqa.py
 └── CGdata_for_WQSP.py
 ```
+
 </details>
 
 #### Data Path
@@ -74,6 +80,7 @@ dataset
   ├── WTQ
   └── deal_raw.py
 ```
+
 </details>
 
 #### Evaluate Path
@@ -88,6 +95,7 @@ evaluate
   ├── evaluate_for_tableqa.py
   └── evaluate_for_wqsp.py
 ```
+
 </details>
 
 #### Prompt Path
@@ -108,21 +116,25 @@ prompt_
    ├── wikisql.json
    └── WTQ.json
 ```
+
 </details>
 
 ## 🎯 Results
 
 #### Result on TableQA dataset
+
 <div align="center">
 <img src="IMG/tableQA.png" width = 40% height = 50%/>
 </div>
 
 #### Result on KGQA dataset
+
 <div align="center">
 <img src="IMG/KGQA.png" width = 50% height = 50%/>
 </div>
 
 #### Result on CronQuestion dataset
+
 <div align="center">
 <img src="IMG/TKG.png" width = 60% height = 60%/>
 </div>
