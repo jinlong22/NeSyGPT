@@ -1,0 +1,4 @@
+m.054vv	people.ethnicity.languages_spoken	m.064kl7
+m.064kl7	language.human_language.main_country	m.019rg5
+m.064kl7	language.human_language.countries_spoken_in	m.019rg5
+m.064kl7	language.human_language.countries_spoken_in	m.07dzf

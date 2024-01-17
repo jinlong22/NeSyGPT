@@ -1,0 +1,60 @@
+Code	Type	Name	Area (km 2 )	Population	Regional County Municipality	Region
+15005	P	Saint-Irénée	60.29	685	Charlevoix-Est	3
+15013	V	La Malbaie	470.57	9121	Charlevoix-Est	3
+15025	M	Notre-Dame-des-Monts	56.15	843	Charlevoix-Est	3
+15030	M	Saint-Aimé-des-Lacs	101.57	1016	Charlevoix-Est	3
+15035	V	Clermont	52.99	3057	Charlevoix-Est	3
+15058	M	Saint-Siméon	289.73	1422	Charlevoix-Est	3
+15065	M	Baie-Sainte-Catherine	232.16	254	Charlevoix-Est	3
+16005	M	Petite-Rivière-Saint-François	135.66	732	Charlevoix	3
+16013	V	Baie-Saint-Paul	546.73	7365	Charlevoix	3
+16023	M	L'Isle-aux-Coudres	29.54	1304	Charlevoix	3
+16048	M	Les Éboulements	153.99	1258	Charlevoix	3
+16050	P	Saint-Hilarion	97.77	1111	Charlevoix	3
+16055	P	Saint-Urbain	327.68	1465	Charlevoix	3
+20005	M	Saint-François-de-l'Île-d'Orléans	30.76	528	L'Île-d'Orléans	3
+20010	P	Sainte-Famille	46.43	869	L'Île-d'Orléans	3
+20015	M	Saint-Jean-de-l'Île-d'Orléans	43.64	897	L'Île-d'Orléans	3
+20020	M	Saint-Laurent-de-l'Île-d'Orléans	35.32	1576	L'Île-d'Orléans	3
+20025	M	Saint-Pierre-de-l'Île-d'Orléans	31.13	1877	L'Île-d'Orléans	3
+20030	VL	Sainte-Pétronille	4.5	1034	L'Île-d'Orléans	3
+21005	M	Saint-Tite-des-Caps	130.01	1442	La Côte-de-Beaupré	3
+21010	M	Saint-Ferréol-les-Neiges	82.28	2283	La Côte-de-Beaupré	3
+21015	P	Saint-Louis-de-Gonzague-du-Cap-Tourmente	0.0	2	La Côte-de-Beaupré	3
+21020	P	Saint-Joachim	40.68	1472	La Côte-de-Beaupré	3
+21025	V	Beaupré	22.53	2946	La Côte-de-Beaupré	3
+21030	V	Sainte-Anne-de-Beaupré	64.38	2781	La Côte-de-Beaupré	3
+21035	V	Château-Richer	228.99	3599	La Côte-de-Beaupré	3
+21040	M	L'Ange-Gardien	50.67	3011	La Côte-de-Beaupré	3
+21045	M	Boischatel	19.64	5020	La Côte-de-Beaupré	3
+22005	V	Sainte-Catherine-de-la-Jacques-Cartier	120.61	5111	La Jacques-Cartier	3
+22010	V	Fossambault-sur-le-Lac	10.96	1151	La Jacques-Cartier	3
+22015	V	Lac-Saint-Joseph	32.81	201	La Jacques-Cartier	3
+22020	M	Shannon	61.79	4159	La Jacques-Cartier	3
+22025	M	Saint-Gabriel-de-Valcartier	441.17	2561	La Jacques-Cartier	3
+22030	V	Lac-Delage	1.46	506	La Jacques-Cartier	3
+22035	CU	Stoneham-et-Tewkesbury	684.75	5976	La Jacques-Cartier	3
+22040	M	Lac-Beauport	62.72	6254	La Jacques-Cartier	3
+22045	V	Sainte-Brigitte-de-Laval	111.49	3789	La Jacques-Cartier	3
+23015	P	Notre-Dame-des-Anges	0.06	485	Not part of a RCM	3
+23027	V	Quebec City	451.79	496257	Not part of a RCM	3
+23057	V	L'Ancienne-Lorette	8.02	16726	Not part of a RCM	3
+23072	V	Saint-Augustin-de-Desmaures	84.94	17191	Not part of a RCM	3
+34007	V	Neuville	72.04	3708	Portneuf	3
+34017	V	Pont-Rouge	121.02	7712	Portneuf	3
+34025	V	Donnacona	20.12	5635	Portneuf	3
+34030	V	Cap-Santé	54.38	2567	Portneuf	3
+34038	V	Saint-Basile	97.69	2731	Portneuf	3
+34048	V	Portneuf	110.43	3166	Portneuf	3
+34058	M	Deschambault-Grondines	123.6	2036	Portneuf	3
+34060	P	Saint-Gilbert	36.95	276	Portneuf	3
+34065	V	Saint-Marc-des-Carrières	16.73	2839	Portneuf	3
+34078	M	Saint-Casimir	65.93	1512	Portneuf	3
+34085	P	Saint-Thuribe	50.81	304	Portneuf	3
+34090	M	Saint-Ubalde	141.28	1447	Portneuf	3
+34097	M	Saint-Alban	150.55	1143	Portneuf	3
+34105	M	Sainte-Christine-d'Auvergne	145.58	362	Portneuf	3
+34115	M	Saint-Léonard-de-Portneuf	138.71	993	Portneuf	3
+34120	V	Lac-Sergent	3.52	280	Portneuf	3
+34128	V	Saint-Raymond	684.65	9298	Portneuf	3
+34135	M	Rivière-à-Pierre	521.31	655	Portneuf	3

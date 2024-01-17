@@ -1,0 +1,8 @@
+m.0jx21d	film.performance.actor	m.05gnf9
+m.05gnf9	people.person.place_of_birth	m.094jv
+m.05gnf9	people.person.profession	m.02hrh1q
+m.0h5qcr7	film.film_character.portrayed_in_films	m.0jx21d
+m.05gnf9	film.actor.film	m.0jx21d
+m.0jx21d	film.performance.character	m.0h5qcr7
+m.05gnf9	people.person.gender	m.05zppz
+m.05gnf9	people.person.nationality	m.09c7w0

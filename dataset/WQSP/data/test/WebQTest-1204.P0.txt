@@ -1,0 +1,2 @@
+m.027v6g	common.topic.notable_types	m.01n7
+m.0lyq	people.ethnicity.geographic_distribution	m.027v6g

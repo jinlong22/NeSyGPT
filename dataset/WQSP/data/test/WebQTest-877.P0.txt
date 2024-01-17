@@ -1,0 +1,11 @@
+m.016rwt	people.person.gender	m.02zsn
+m.02n207	people.person.profession	m.0fj9f
+m.02n207	people.person.parents	m.016rwt
+m.016rwt	people.person.profession	m.0fj9f
+m.02n207	people.person.gender	m.02zsn
+m.016rwt	business.board_member.leader_of	m.0z1pk4q
+m.02n207	people.person.nationality	m.03rk0
+m.016rwt	people.person.religion	m.01lp8
+m.016rwt	people.person.religion	m.0c8wxp
+m.016rwt	people.person.children	m.02n207
+m.016rwt	people.person.nationality	m.03rk0

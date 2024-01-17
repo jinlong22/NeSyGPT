@@ -1,0 +1,17 @@
+m.04rqd	organization.organization.place_founded	m.02_286
+m.04rqd	organization.organization.headquarters	m.046r0bj
+m.04rqd	film.production_company.films	m.0crw06
+m.04rqd	film.production_company.films	m.028bfsc
+m.04rqd	film.production_company.films	m.04fvch
+m.04rqd	media_common.netflix_genre.titles	m.048wfw
+m.02f6ym	award.award_category.category_of	m.01r470
+m.02f6ym	award.award_category.winners	m.0wrcxt_
+m.04rqd	common.topic.notable_types	m.01xrznl
+m.04rqd	film.production_company.films	m.08q72t
+m.02f6ym	award.award_category.date_established	"1984"
+m.01r470	award.award.presented_by	m.04rqd
+m.04rqd	film.production_company.films	m.08r27j
+m.04rqd	film.production_company.films	m.048qrd
+m.04rqd	media_common.netflix_genre.titles	m.0crw06
+m.02f6ym	award.award_category.winners	m.0l_wfl_
+m.04rqd	film.production_company.films	m.04xx9s

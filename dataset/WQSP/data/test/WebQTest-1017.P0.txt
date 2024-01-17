@@ -1,0 +1,17 @@
+m.0129g2	common.topic.notable_types	m.0jsg2m
+m.0129g2	media_common.netflix_title.netflix_genres	m.01hmnh
+m.0k6ckh	film.performance.character	m.0dlsybb
+m.0129g2	film.film.sequel	m.02bj22
+m.0129g2	film.film.starring	m.0k6ckh
+m.0129g2	film.film.country	m.09c7w0
+m.0d7whx	people.person.profession	m.018gz8
+m.0129g2	film.film.genre	m.01hmnh
+m.0129g2	film.film.language	m.02h40lc
+m.0d7whx	film.actor.film	m.0k6ckh
+m.0dlsybb	film.film_character.portrayed_in_films	m.0k6ckh
+m.0k6ckh	film.performance.actor	m.0d7whx
+m.0d7whx	people.person.profession	m.02hrh1q
+m.0k6ckh	film.performance.film	m.0129g2
+m.0d7whx	people.person.nationality	m.09c7w0
+m.0d7whx	people.person.gender	m.05zppz
+m.0129g2	film.film.language	m.06nm1

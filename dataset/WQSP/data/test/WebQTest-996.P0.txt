@@ -1,0 +1,5 @@
+m.05h4fd2	common.topic.notable_types	m.025672b
+m.03t3zk	sports.sports_team.arena_stadium	m.05h4fd2
+m.05h4fd2	sports.sports_facility.teams	m.03t3zk
+m.05h4fd2	location.location.containedby	m.02cft
+m.05h4fd2	architecture.venue.capacity	"50000"

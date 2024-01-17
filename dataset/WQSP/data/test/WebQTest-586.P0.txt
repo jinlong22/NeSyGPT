@@ -1,0 +1,16 @@
+m.04psf	people.cause_of_death.parent_cause_of_death	m.0qcr0
+m.01vyv9	people.person.profession	m.02hrh1q
+m.01vyv9	people.person.gender	m.05zppz
+m.01vyv9	people.person.profession	m.01d_h8
+m.01vyv9	people.person.profession	m.03gjzk
+m.0369n2	people.cause_of_death.parent_cause_of_death	m.0qcr0
+m.01vyv9	people.person.profession	m.0np9r
+m.01vyv9	people.deceased_person.cause_of_death	m.04psf
+m.0369n2	medicine.disease.parent_disease	m.0qcr0
+m.04psf	medicine.disease.parent_disease	m.0qcr0
+m.01vyv9	people.person.nationality	m.09c7w0
+m.01vyv9	people.deceased_person.cause_of_death	m.0369n2
+m.01vyv9	people.deceased_person.place_of_death	m.0f2rq
+m.01vyv9	people.deceased_person.cause_of_death	m.0qcr0
+m.01vyv9	food.diet_follower.follows_diet	m.07_lq
+m.0qcr0	film.film_subject.films	m.0cmdwwg

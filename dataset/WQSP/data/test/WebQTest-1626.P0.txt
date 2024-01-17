@@ -1,0 +1,6 @@
+m.01v2jh	common.topic.notable_types	m.01xryvt
+m.01v2jh	people.person.place_of_birth	m.0978r
+m.01v2jh	people.person.nationality	m.07ssc
+m.01v2jh	people.person.profession	m.0196pc
+m.01v2jh	people.person.gender	m.05zppz
+m.01nxmb	fictional_universe.fictional_universe.created_by	m.01v2jh

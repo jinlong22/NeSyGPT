@@ -1,0 +1,5 @@
+m.05ftlg	time.recurring_event.date_of_first_occurance	"1904"
+m.05ftlg	type.object.name	"Australian Open"
+m.05ftlg	type.object.name	"オーストラリアン・オープン"
+m.05ftlg	type.object.name	"Open d'Australie"
+m.05ftlg	type.object.name	"Australisch Open"

@@ -1,0 +1,10 @@
+m.02khkd	people.person.gender	m.05zppz
+m.02khkd	people.person.spouse_s	m.0j4l7pb
+m.02khkd	common.topic.notable_types	m.02_77lg
+m.034qg	freebase.linguistic_hint.subject_form	"Armes à feu"
+m.02khkd	people.deceased_person.cause_of_death	m.034qg
+m.02khkd	people.person.nationality	m.09c7w0
+m.02khkd	people.deceased_person.cause_of_death	m.012hw
+m.02khkd	user.alexander.misc.murdered_person.murder_method	m.012hw
+m.034qg	freebase.linguistic_hint.subject_form	"Firearms"
+m.02khkd	people.deceased_person.place_of_death	m.0135p7

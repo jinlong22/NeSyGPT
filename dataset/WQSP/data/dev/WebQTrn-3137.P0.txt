@@ -1,0 +1,3 @@
+m.0l8sx	organization.organization.date_founded	"1990"
+m.09c2xk	broadcast.broadcast.area_served	m.013yq
+m.0l8sx	broadcast.tv_station_owner.tv_stations	m.09c2xk

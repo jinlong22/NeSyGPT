@@ -1,0 +1,12 @@
+m.025hl8	people.cause_of_death.parent_cause_of_death	m.0qcr0
+m.0mj4n	people.person.nationality	m.09c7w0
+m.0mj4n	people.deceased_person.cause_of_death	m.025hl8
+m.0qcr0	film.film_subject.films	m.0cmdwwg
+m.0mj4n	people.person.profession	m.0dxtg
+m.0mj4n	people.deceased_person.place_of_death	m.030qb3t
+m.0mj4n	people.person.gender	m.02zsn
+m.025hl8	medicine.disease.parent_disease	m.0qcr0
+m.0mj4n	people.person.profession	m.02hrh1q
+m.0mj4n	people.person.profession	m.018gz8
+m.0mj4n	people.person.ethnicity	m.041rx
+m.0mj4n	people.person.place_of_birth	m.02dtg

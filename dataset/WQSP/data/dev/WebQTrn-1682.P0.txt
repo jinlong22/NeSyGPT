@@ -1,0 +1,4 @@
+m.0246n2	common.topic.notable_types	m.07vr92g
+m.017gry	location.location.containedby	m.0345h
+m.0246n2	organization.organization.date_founded	"1913"
+m.0246n2	organization.organization.place_founded	m.017gry

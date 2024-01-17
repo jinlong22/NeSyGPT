@@ -1,0 +1,10 @@
+m.0nb2t	people.person.gender	m.05zppz
+m.0nb2t	people.person.nationality	m.035qy
+m.0nb2t	people.person.children	m.063sr6
+m.063sr6	people.person.gender	m.05zppz
+m.063sr6	people.person.nationality	m.035qy
+m.0nb2t	common.topic.notable_types	m.02h77nv
+m.063sr6	people.person.place_of_birth	m.09472
+m.0nb2t	people.person.place_of_birth	m.09472
+m.063sr6	people.person.parents	m.0nb2t
+m.0nb2t	people.deceased_person.date_of_death	"-0479"

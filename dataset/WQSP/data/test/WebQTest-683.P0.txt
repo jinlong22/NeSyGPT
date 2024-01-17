@@ -1,0 +1,13 @@
+m.03lp2g	time.recurring_event.date_of_first_occurance	"1952"
+m.08cpnf	people.person.place_of_birth	m.02dtg
+m.08cpnf	people.person.gender	m.02zsn
+m.08cpnf	people.person.profession	m.0d1pc
+m.03lp2g	time.recurring_event.instances	m.02vmzrl
+m.08cpnf	people.person.profession	m.02hrh1q
+m.08cpnf	people.person.profession	m.0kyk
+m.08cpnf	people.person.nationality	m.09c7w0
+m.08cpnf	people.person.profession	m.01d_h8
+m.02vmzrl	time.event.instance_of_recurring_event	m.03lp2g
+m.08cpnf	award.competitor.competitions_won	m.02vmzrl
+m.08cpnf	people.person.ethnicity	m.0x67
+m.02vmzrl	award.competition.winner	m.08cpnf

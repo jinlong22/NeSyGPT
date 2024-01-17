@@ -1,0 +1,17 @@
+m.0c4gf	time.event.locations	m.0cswl
+m.0c4gf	common.topic.notable_types	m.02h76fz
+m.0c4gf	time.event.locations	m.0df4f
+m.0cswl	common.topic.notable_types	m.01n7
+m.0cswl	location.location.containedby	m.0d05w3
+m.01krx6	common.topic.notable_types	m.02h5yxm
+m.0df4f	common.topic.notable_types	m.01y2jks
+m.0df4f	location.location.events	m.0gyr8mp
+m.01krx6	location.location.events	m.0c4gf
+m.01krx6	location.location.contains	m.05b7q
+m.0cswl	location.location.events	m.07s4zdd
+m.0df4f	location.location.events	m.0c4gf
+m.0c4gf	time.event.locations	m.01krx6
+m.0cswl	location.location.events	m.0c4gf
+m.01krx6	location.location.events	m.048n7
+m.01krx6	geography.geographical_feature.category	m.05sl2
+m.0cswl	location.location.events	m.044pk6

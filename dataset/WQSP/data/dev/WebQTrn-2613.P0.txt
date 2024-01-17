@@ -1,0 +1,17 @@
+m.0swmncg	film.performance.actor	m.03wcq6q
+m.03wcq6q	people.person.gender	m.05zppz
+m.0ccck7	film.film.starring	m.0swmncg
+m.03wcq6q	people.person.profession	m.02hrh1q
+m.0swmncg	film.performance.character	m.0r9yvpc
+m.0ccck7	film.film.language	m.02h40lc
+m.03wcq6q	people.deceased_person.place_of_death	m.0x44q
+m.0ccck7	film.film.starring	m.0k75_y
+m.0ccck7	film.film.country	m.09c7w0
+m.03wcq6q	film.actor.film	m.0swmncg
+m.0ccck7	film.film.story_by	m.01bq7x
+m.03wcq6q	people.person.nationality	m.09c7w0
+m.03wcq6q	people.deceased_person.cause_of_death	m.0gk4g
+m.0swmncg	film.performance.film	m.0ccck7
+m.0r9yvpc	film.film_character.portrayed_in_films	m.0swmncg
+m.0ccck7	film.film.genre	m.02822
+m.0ccck7	common.topic.notable_types	m.0jsg2m

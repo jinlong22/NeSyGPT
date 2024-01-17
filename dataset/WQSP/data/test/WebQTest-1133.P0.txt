@@ -1,0 +1,5 @@
+m.013_kt	organization.organization.date_founded	"1792"
+m.013_kt	common.topic.alias	"W H Smith"
+m.013_kt	type.object.name	"W H Smith"
+m.013_kt	organization.organization.place_founded	m.04jpl
+m.013_kt	business.business_operation.industry	m.0191_7

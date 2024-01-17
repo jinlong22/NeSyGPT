@@ -1,0 +1,11 @@
+m.06rpd	common.topic.notable_types	m.044801x
+m.06rpd	sports.sports_team.colors	m.083jv
+m.06rpd	sports.sports_team.colors	m.01l849
+m.06rpd	sports.sports_team.roster	m.0hpg7l7
+m.06rpd	sports.sports_team.league	m.0crt512
+m.06rpd	sports.sports_team.previously_known_as	m.06mprtt
+m.06rpd	sports.sports_team.location	m.071vr
+m.06rpd	sports.sports_team.founded	"1960"
+m.05sys3j	time.event.locations	m.016xm_
+m.06rpd	user.dylanrocks.national_football_league.nfl_teams_that_have_moved_cities.original_city	m.030qb3t
+m.06rpd	sports.sports_team.roster	m.0hph3jp

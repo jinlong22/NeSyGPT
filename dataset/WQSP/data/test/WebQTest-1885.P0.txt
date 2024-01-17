@@ -1,0 +1,11 @@
+m.03j6c	religion.religion.texts	m.05_m24
+m.074l5	religion.deity.deity_of	m.03j6c
+m.03j6c	religion.religion.beliefs	m.017kx3
+m.03j6c	religion.religion.deities	m.04fckk
+m.03j6c	religion.religion.deities	m.074l5
+m.03j6c	religion.religion.beliefs	m.06fmt
+m.03j6c	religion.religion.beliefs	m.02fbl
+m.03j6c	religion.religion.beliefs	m.02wvcg4
+m.03j6c	religion.religion.deities	m.03vh65
+m.03j6c	religion.religion.holidays	m.019fpj
+m.03j6c	religion.religion.deities	m.055v4c

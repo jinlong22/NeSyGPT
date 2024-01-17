@@ -1,0 +1,14 @@
+m.0czc1yg	people.deceased_person.place_of_death	m.04tgp
+m.06k3_t	people.person.date_of_birth	"1957"
+m.06k3_t	people.person.parents	m.0czc1yg
+m.06k3_t	people.person.nationality	m.09c7w0
+m.0czc1yg	people.person.nationality	m.09c7w0
+m.06k3_t	people.person.ethnicity	m.0x67
+m.0czc1yg	people.person.profession	m.012qdp
+m.0czc1yg	people.person.children	m.06k3_t
+m.06k3_t	people.person.gender	m.02zsn
+m.06k3_t	people.person.profession	m.0d8qb
+m.06k3_t	medicine.notable_person_with_medical_condition.condition	m.019gky
+m.06k3_t	medicine.notable_person_with_medical_condition.condition	m.0j8hd
+m.0czc1yg	people.person.gender	m.05zppz
+m.06k3_t	people.person.profession	m.03gjzk

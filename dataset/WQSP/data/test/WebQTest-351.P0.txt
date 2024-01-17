@@ -1,0 +1,2 @@
+m.0852w8	book.newspaper.owner	m.05kh9x5
+m.05kh9x5	common.topic.notable_types	m.02hr7t2

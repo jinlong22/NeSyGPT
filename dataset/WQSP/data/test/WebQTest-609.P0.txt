@@ -1,0 +1,16 @@
+m.04lqy4g	fictional_universe.fictional_character.gender	m.02zsn
+m.04lqxmt	tv.regular_tv_appearance.series	m.025m13
+m.034jjp	people.person.profession	m.09l65
+m.04lqxmt	tv.regular_tv_appearance.actor	m.034jjp
+m.034jjp	people.person.place_of_birth	m.0fr0t
+m.025m13	tv.tv_program.tvrage_id	"3941"
+m.04lqy4g	tv.tv_character.appeared_in_tv_program	m.04lqxmt
+m.025m13	tv.tv_program.regular_cast	m.04lqxmt
+m.034jjp	people.person.gender	m.02zsn
+m.025m13	tv.tv_program.number_of_episodes	"139"
+m.034jjp	people.person.profession	m.02hrh1q
+m.025m13	tv.tv_program.episode_running_time	"25"
+m.034jjp	people.person.nationality	m.09c7w0
+m.034jjp	tv.tv_actor.starring_roles	m.04lqxmt
+m.04lqxmt	tv.regular_tv_appearance.character	m.04lqy4g
+m.025m13	tv.tv_program.number_of_seasons	"5"

@@ -1,0 +1,17 @@
+m.02w4x29	people.person.nationality	m.07ssc
+m.04hby1k	tv.regular_tv_appearance.character	m.0g0jx7
+m.02w4x29	people.person.profession	m.09jwl
+m.0g0jx7	fictional_universe.fictional_character.occupation	m.09x_r
+m.02w4x29	people.person.profession	m.0d1pc
+m.02w4x29	tv.tv_actor.starring_roles	m.04hby1k
+m.0g0jx7	fictional_universe.fictional_character.gender	m.05zppz
+m.03gkb0	film.film_subject.films	m.02710m8
+m.02w4x29	people.person.profession	m.02hrh1q
+m.0g0jx7	fictional_universe.fictional_character.occupation	m.03gkb0
+m.0g0jx7	base.gossipgirl.character.played_by	m.02w4x29
+m.02w4x29	people.person.place_of_birth	m.01t840
+m.0g0jx7	fictional_universe.fictional_character.occupation	m.012t_z
+m.04hby1k	tv.regular_tv_appearance.actor	m.02w4x29
+m.02w4x29	people.person.gender	m.05zppz
+m.0g0jx7	tv.tv_character.appeared_in_tv_program	m.04hby1k
+m.04hby1k	tv.regular_tv_appearance.series	m.0gfzgl

@@ -1,0 +1,15 @@
+m.0g60z	tv.tv_program.tvrage_id	"6289"
+m.02kvknw	fictional_universe.fictional_character.gender	m.02zsn
+m.0g60z	tv.tv_program.episode_running_time	"60"
+m.0g60z	tv.tv_program.number_of_episodes	"156"
+m.040t74	people.person.nationality	m.09c7w0
+m.0g60z	tv.tv_program.number_of_seasons	"7"
+m.040t74	people.person.gender	m.02zsn
+m.02kvknt	tv.regular_tv_appearance.character	m.02kvknw
+m.040t74	people.person.profession	m.02hrh1q
+m.040t74	tv.tv_actor.starring_roles	m.02kvknt
+m.02kvknw	tv.tv_character.appeared_in_tv_program	m.02kvknt
+m.02kvknt	tv.regular_tv_appearance.actor	m.040t74
+m.0g60z	tv.tv_program.regular_cast	m.02kvknt
+m.0g60z	tv.tv_program.episode_running_time	"42"
+m.02kvknt	tv.regular_tv_appearance.series	m.0g60z

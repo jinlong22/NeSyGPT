@@ -1,0 +1,10 @@
+m.02p1lp	topic_server.population_number	"40753"
+m.02p1lp	location.location.people_born_here	m.01wcc7
+m.02p1lp	location.location.area	"81.1"
+m.01wcc7	people.person.gender	m.05zppz
+m.02p1lp	location.location.containedby	m.0d060g
+m.02p1lp	location.location.time_zones	m.02hcv8
+m.02p1lp	location.location.containedby	m.0694j
+m.01wcc7	people.person.place_of_birth	m.02p1lp
+m.02p1lp	common.topic.notable_types	m.01m9
+m.01wcc7	people.person.profession	m.040vc4s

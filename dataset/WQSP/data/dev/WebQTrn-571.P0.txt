@@ -1,0 +1,15 @@
+m.05mnc3	people.person.nationality	m.02jx1
+m.0nf_x05	education.education.institution	m.0gmdq9d
+m.05mnc3	people.person.places_lived	m.03plx6x
+m.0gmdq9d	education.educational_institution.colors	m.083jv
+m.0gmdq9d	common.topic.notable_types	m.04lw
+m.0gmdq9d	organization.organization.date_founded	"1934"
+m.05mnc3	people.person.religion	m.01spm
+m.0gmdq9d	education.educational_institution.students_graduates	m.0nf_x05
+m.05mnc3	symbols.namesake.named_after	m.0978r
+m.0nf_x05	education.education.student	m.05mnc3
+m.05mnc3	people.person.places_lived	m.03pv20m
+m.05mnc3	people.person.gender	m.02zsn
+m.05mnc3	people.person.religion	m.0n2g
+m.05mnc3	people.person.education	m.0nf_x05
+m.0gmdq9d	education.educational_institution.school_type	m.07g47h

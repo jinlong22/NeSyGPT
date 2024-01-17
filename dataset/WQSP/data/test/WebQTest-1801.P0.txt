@@ -1,0 +1,17 @@
+m.0k39m5	film.performance.actor	m.0cp8vl
+m.070m8v	film.film.starring	m.0k39m5
+m.0cp8vl	people.person.gender	m.05zppz
+m.070m8v	film.film.language	m.02h40lc
+m.0cp8vl	people.person.nationality	m.09c7w0
+m.070m8v	film.film.story_by	m.042v2
+m.0cp8vl	film.actor.film	m.0k39m5
+m.0cp8vl	people.person.profession	m.02hrh1q
+m.0gwwcp6	film.film_character.portrayed_in_films	m.0k39m5
+m.0k39m5	film.performance.character	m.0gwwcp6
+m.070m8v	film.film.genre	m.02822
+m.070m8v	media_common.netflix_title.netflix_genres	m.02822
+m.0k39m5	film.performance.film	m.070m8v
+m.070m8v	common.topic.notable_types	m.0jsg2m
+m.0cp8vl	people.person.place_of_birth	m.0s4t6
+m.070m8v	film.film.country	m.09c7w0
+m.070m8v	film.film.featured_film_locations	m.036k0s

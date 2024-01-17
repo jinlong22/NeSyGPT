@@ -1,0 +1,46 @@
+m.0d1_f	government.politician.government_positions_held	m.04g8ppp
+m.0d1_f	royalty.monarch.kingdom	m.0l3h
+m.0d1_f	type.object.name	"Elizabeth II"
+m.0d1_f	government.politician.government_positions_held	m.04g8pp0
+m.0d1_f	government.politician.government_positions_held	m.010wzxnj
+m.0d1_f	government.politician.government_positions_held	m.04g8pp7
+m.0d1_f	government.politician.government_positions_held	m.04g8pqz
+m.0d1_f	royalty.monarch.kingdom	m.0160w
+m.0d1_f	royalty.monarch.kingdom	m.05qkp
+m.0d1_f	symbols.name_source.namesakes	m.033_p6
+m.0d1_f	common.topic.alias	"Elizabeth II"
+m.0d1_f	base.schemastaging.context_name.nickname	"Lilibet"
+m.0d1_f	people.person.nationality	m.07ssc
+m.0cm63	people.person.gender	m.02zsn
+m.0d1_f	people.person.children	m.0xnc3
+m.0d1_f	organization.organization_founder.organizations_founded	m.014d4v
+m.0d1_f	royalty.monarch.kingdom	m.06s6l
+m.0cm63	symbols.name_source.namesakes	m.0d1_f
+m.0d1_f	government.politician.government_positions_held	m.0j6kxyy
+m.0d1_f	people.person.parents	m.0cm83
+m.0d1_f	government.politician.government_positions_held	m.04g8pm8
+m.0d1_f	royalty.monarch.kingdom	m.03_r3
+m.0cm63	people.person.nationality	m.07ssc
+m.0d1_f	government.politician.government_positions_held	m.04bc59y
+m.0d1_f	people.person.place_of_birth	m.0nbgf
+m.0d1_f	royalty.monarch.kingdom	m.06s0l
+m.0d1_f	government.politician.government_positions_held	m.04g8pqk
+m.0d1_f	royalty.monarch.kingdom	m.0162v
+m.0d1_f	royalty.monarch.kingdom	m.01n8qg
+m.0d1_f	symbols.namesake.named_after	m.0cm63
+m.0d1_f	people.person.religion	m.0n2g
+m.0d1_f	government.politician.government_positions_held	m.04g8pqb
+m.0d1_f	royalty.monarch.kingdom	m.0d060g
+m.0d1_f	royalty.monarch.kingdom	m.07fsv
+m.0d1_f	government.politician.government_positions_held	m.04g8ppw
+m.0cm63	people.person.religion	m.0n2g
+m.0cm63	people.person.spouse_s	m.0j4k1c9
+m.0d1_f	people.person.religion	m.05sfs
+m.0d1_f	government.politician.government_positions_held	m.04g8pr5
+m.0d1_f	common.topic.alias	"Lilibet"
+m.0d1_f	government.politician.government_positions_held	m.04g8pq3
+m.0d1_f	government.politician.government_positions_held	m.04g8pmp
+m.0d1_f	base.schemastaging.context_name.nickname	"Elizabeth II"
+m.0d1_f	government.politician.government_positions_held	m.04g8ppf
+m.0d1_f	common.topic.notable_types	m.04fnrhx
+m.0d1_f	people.person.parents	m.0cm63

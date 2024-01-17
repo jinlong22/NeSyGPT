@@ -1,0 +1,49 @@
+m.016zwt	topic_server.population_number	"12060891"
+m.016zwt	topic_server.population_number	"15417207"
+m.016zwt	topic_server.population_number	"10443932"
+m.016zwt	location.country.form_of_government	m.014j8_
+m.016zwt	topic_server.population_number	"14063010"
+m.016zwt	topic_server.population_number	"17273606"
+m.016zwt	topic_server.population_number	"16513244"
+m.016zwt	topic_server.population_number	"26494504"
+m.0c5yqk	type.object.name	"Parliament of Nepal"
+m.016zwt	topic_server.population_number	"27474377"
+m.016zwt	location.country.languages_spoken	m.095hnm
+m.016zwt	location.location.containedby	m.0j0k
+m.016zwt	location.country.official_language	m.0h0t4
+m.016zwt	topic_server.population_number	"9544938"
+m.016zwt	topic_server.population_number	"20587157"
+m.016zwt	topic_server.population_number	"12593223"
+m.016zwt	topic_server.population_number	"18111200"
+m.016zwt	location.location.containedby	m.02qkt
+m.016zwt	topic_server.population_number	"16143975"
+m.016zwt	location.country.form_of_government	m.06cx9
+m.016zwt	topic_server.population_number	"10060686"
+m.016zwt	location.location.adjoin_s	m.043w210
+m.016zwt	topic_server.population_number	"12871016"
+m.016zwt	topic_server.population_number	"24921910"
+m.016zwt	topic_server.population_number	"11088215"
+m.016zwt	topic_server.population_number	"15778051"
+m.016zwt	topic_server.population_number	"9881783"
+m.016zwt	base.biblioness.bibs_location.loc_type	"Country"
+m.016zwt	topic_server.population_number	"17679536"
+m.016zwt	topic_server.population_number	"23184177"
+m.016zwt	topic_server.population_number	"25292058"
+m.016zwt	topic_server.population_number	"22690158"
+m.016zwt	topic_server.population_number	"16887696"
+m.016zwt	topic_server.population_number	"11320100"
+m.016zwt	location.country.languages_spoken	m.03k50
+m.016zwt	topic_server.population_number	"22175431"
+m.0c5yqk	type.object.name	"Parlamento de Nepal"
+m.016zwt	location.location.contains	m.03_nm1
+m.016zwt	topic_server.population_number	"20065413"
+m.0c5yqk	type.object.name	"Parlamento del Nepal"
+m.016zwt	topic_server.population_number	"26249412"
+m.0c5yqk	type.object.name	"Парламент Непала"
+m.016zwt	location.country.languages_spoken	m.0h0t4
+m.016zwt	common.topic.notable_types	m.01mp
+m.016zwt	topic_server.population_number	"15062998"
+m.016zwt	topic_server.population_number	"9710150"
+m.016zwt	location.location.containedby	m.06nn1
+m.016zwt	topic_server.population_number	"19050879"
+m.016zwt	topic_server.population_number	"10247834"

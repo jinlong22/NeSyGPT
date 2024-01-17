@@ -1,0 +1,15 @@
+m.01j851	people.person.profession	m.0d1pc
+m.01j851	medicine.notable_person_with_medical_condition.condition	m.02vxm4
+m.02vxm4	people.cause_of_death.parent_cause_of_death	m.0qcr0
+m.01j851	people.deceased_person.place_of_burial	m.018mm4
+m.02vxm4	medicine.disease.parent_disease	m.0qcr0
+m.01j851	people.person.religion	m.0c8wxp
+m.01j851	people.person.gender	m.02zsn
+m.01j851	people.deceased_person.cause_of_death	m.02vxm4
+m.0qcr0	film.film_subject.films	m.0cmdwwg
+m.01j851	people.person.profession	m.0n1h
+m.01j851	people.person.profession	m.02hrh1q
+m.01j851	people.person.profession	m.01d_h8
+m.01j851	people.person.parents	m.05psp1t
+m.01j851	people.person.nationality	m.09c7w0
+m.01j851	people.person.profession	m.03hz6vv

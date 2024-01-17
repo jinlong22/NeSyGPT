@@ -1,0 +1,14 @@
+m.0cp0ph6	film.film.language	m.02h40lc
+m.0cp0ph6	film.film.starring	m.0b798jt
+m.025__x2	people.person.nationality	m.07ssc
+m.025__x2	film.actor.film	m.0b798jt
+m.025__x2	people.person.languages	m.02h40lc
+m.0b798jt	film.performance.character	m.0glzmqc
+m.0cp0ph6	film.film.country	m.09c7w0
+m.025__x2	tv.tv_actor.starring_roles	m.02t8c18
+m.0cp0ph6	film.film.featured_film_locations	m.030qb3t
+m.0b798jt	film.performance.film	m.0cp0ph6
+m.025__x2	people.person.profession	m.02hrh1q
+m.0glzmqc	film.film_character.portrayed_in_films	m.0b798jt
+m.0b798jt	film.performance.actor	m.025__x2
+m.025__x2	people.person.gender	m.02zsn

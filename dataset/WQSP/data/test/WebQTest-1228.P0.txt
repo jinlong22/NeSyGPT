@@ -1,0 +1,17 @@
+m.0349s	language.human_language.countries_spoken_in	m.01mjq
+m.0349s	language.human_language.main_country	m.035qy
+m.0349s	language.human_language.countries_spoken_in	m.01ppq
+m.0358gm	language.language_writing_system.parent_writing_systems	m.0j59b
+m.0349s	base.rosetta.languoid.parent	m.05tk2xx
+m.0349s	language.human_language.countries_spoken_in	m.0d7c8
+m.0349s	language.human_language.countries_spoken_in	m.0d060g
+m.0358gm	language.language_writing_system.languages	m.0349s
+m.0349s	language.human_language.writing_system	m.0358gm
+m.0349s	fictional_universe.fictional_language.where_spoken	m.06cmp
+m.0349s	language.human_language.language_family	m.03v09
+m.0349s	language.human_language.countries_spoken_in	m.035qy
+m.0j59b	language.language_writing_system.languages	m.03hkp
+m.0349s	language.human_language.countries_spoken_in	m.0jdx
+m.0349s	language.human_language.countries_spoken_in	m.0hzlz
+m.0j59b	language.language_writing_system.parent_writing_systems	m.05gpzl
+m.0j59b	language.language_writing_system.languages	m.039d68

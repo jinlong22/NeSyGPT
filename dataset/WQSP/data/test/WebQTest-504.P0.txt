@@ -1,0 +1,3 @@
+m.075pg8m	fictional_universe.fictional_character.based_on	m.012tjy
+m.012tjy	people.person.gender	m.05zppz
+m.012tjy	fictional_universe.person_in_fiction.representations_in_fiction	m.075pg8m

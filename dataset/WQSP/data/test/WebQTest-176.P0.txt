@@ -1,0 +1,9 @@
+m.09yhzs	people.person.parents	m.0gx3qys
+m.09yhzs	people.person.nationality	m.09c7w0
+m.09yhzs	people.person.place_of_birth	m.0qpqn
+m.0gx3qys	people.person.children	m.09yhzs
+m.09yhzs	people.person.profession	m.02hrh1q
+m.09yhzs	people.person.gender	m.02zsn
+m.09yhzs	people.person.profession	m.0d1pc
+m.0gx3qys	people.person.gender	m.05zppz
+m.09yhzs	people.person.profession	m.0np9r

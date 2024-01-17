@@ -1,0 +1,10 @@
+m.0191_7	architecture.building_function.buildings	m.0vzv64r
+m.01k_mv	architecture.building_function.buildings	m.0_ylq3n
+m.0191_7	architecture.building_function.buildings	m.0c4fxd
+m.0841v	business.business_operation.industry	m.0191_7
+m.0191_7	organization.organization_sector.organizations_in_this_sector	m.0841v
+m.0841v	business.business_operation.industry	m.01k_mv
+m.0841v	business.business_operation.industry	m.03qtgrv
+m.0191_7	organization.organization_sector.organizations_in_this_sector	m.02x0jgm
+m.0841v	organization.organization.date_founded	"1962"
+m.01k_mv	architecture.building_function.buildings	m.0pdb059

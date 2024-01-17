@@ -1,0 +1,17 @@
+m.030k44	tv.tv_program.episode_running_time	"60"
+m.0bw6y	tv.tv_actor.starring_roles	m.04d576g
+m.0bw6y	people.person.profession	m.02hrh1q
+m.04d576g	tv.regular_tv_appearance.actor	m.0bw6y
+m.09cyx23	tv.tv_character.appeared_in_tv_program	m.04d576g
+m.030k44	tv.tv_program.number_of_episodes	"112"
+m.0bw6y	people.person.gender	m.02zsn
+m.04d576g	tv.regular_tv_appearance.character	m.09cyx23
+m.0bw6y	people.deceased_person.cause_of_death	m.01l2m3
+m.0bw6y	people.person.religion	m.05sfs
+m.04d576g	tv.regular_tv_appearance.series	m.030k44
+m.030k44	tv.tv_program.regular_cast	m.04d576g
+m.030k44	tv.tv_program.number_of_seasons	"4"
+m.030k44	tv.tv_program.tvrage_id	"5622"
+m.0bw6y	people.person.parents	m.0hpkwz5
+m.0bw6y	people.person.place_of_birth	m.0cr3d
+m.0bw6y	people.person.nationality	m.09c7w0

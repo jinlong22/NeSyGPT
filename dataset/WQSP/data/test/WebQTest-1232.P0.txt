@@ -1,0 +1,15 @@
+m.035gcb	people.person.gender	m.05zppz
+m.04ynyvj	sports.sports_award.season	m.02h7sdf
+m.02h7sdf	time.event.next_in_series	m.02h7s0d
+m.02h7sdf	time.event.start_date	"2001"
+m.04ynyvj	sports.sports_award.award_winner	m.035gcb
+m.04ynyvj	sports.sports_award.award	m.04yny9t
+m.035gcb	people.person.nationality	m.09c7w0
+m.035gcb	people.person.place_of_birth	m.0fthl
+m.04yny9t	sports.sports_award_type.winners	m.04ynyvj
+m.035gcb	sports.pro_athlete.teams	m.05kb0jt
+m.035gcb	sports.pro_athlete.teams	m.0j2lc1l
+m.035gcb	sports.sports_award_winner.awards	m.04ynyvj
+m.035gcb	sports.pro_athlete.teams	m.04xhdn1
+m.035gcb	people.person.nationality	m.027rn
+m.035gcb	people.person.profession	m.02h664g

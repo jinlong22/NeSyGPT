@@ -1,0 +1,11 @@
+m.0285m87	common.topic.notable_types	m.01mp
+m.033ky	people.person.profession	m.016wtf
+m.033ky	people.person.gender	m.05zppz
+m.033ky	people.person.date_of_birth	"1480"
+m.033ky	people.person.nationality	m.0285m87
+m.0285m87	royalty.kingdom.rulers	m.0f6fz
+m.0285m87	location.country.form_of_government	m.04szc
+m.033ky	people.person.profession	m.040vc4s
+m.033ky	people.person.profession	m.023nrw
+m.0285m87	location.location.containedby	m.03v9w
+m.0285m87	location.country.capital	m.04llb

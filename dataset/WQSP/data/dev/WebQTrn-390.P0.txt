@@ -1,0 +1,12 @@
+m.01bkb	location.location.events	m.0q06c
+m.01bkb	film.film_location.featured_in_films	m.07kdkfj
+m.0q06c	time.event.locations	m.01bkb
+m.0q06c	time.event.start_date	"2002-10-12"
+m.01bkb	geography.geographical_feature.category	m.03s0c
+m.01bkb	base.aareas.schema.administrative_area.administrative_parent	m.03ryn
+m.01bkb	location.location.containedby	m.03ryn
+m.0q06c	time.event.end_date	"2002-10-12"
+m.01bkb	location.location.contains	m.069hj8
+m.01bkb	location.administrative_division.country	m.03ryn
+m.01bkb	travel.travel_destination.how_to_get_here	m.0519kxv
+m.01bkb	location.location.events	m.04tkjt

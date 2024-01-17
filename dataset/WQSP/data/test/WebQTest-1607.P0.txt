@@ -1,0 +1,9 @@
+m.02vnxb_	sports.sports_award_winner.awards	m.0n1v8cy
+m.02vnxb_	people.person.gender	m.05zppz
+m.02vnxb_	people.person.nationality	m.09c7w0
+m.0n1v8cy	sports.sports_award.season	m.0hrfg40
+m.08q5ws	sports.sports_award_type.winners	m.0n1v8cy
+m.0n1v8cy	sports.sports_award.award	m.08q5ws
+m.02vnxb_	people.person.profession	m.025smyp
+m.0n1v8cy	sports.sports_award.award_winner	m.02vnxb_
+m.02vnxb_	people.person.place_of_birth	m.05jbn

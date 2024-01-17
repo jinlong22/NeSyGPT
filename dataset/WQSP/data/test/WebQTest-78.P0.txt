@@ -1,0 +1,11 @@
+m.0dltj	people.person.profession	m.02hrh1q
+m.0dltj	people.deceased_person.cause_of_death	m.0d_bk
+m.0d_bk	people.cause_of_death.parent_cause_of_death	m.0qcr0
+m.0dltj	people.deceased_person.cause_of_death	m.0qcr0
+m.0dltj	people.deceased_person.place_of_death	m.01ly5m
+m.0dltj	people.person.gender	m.02zsn
+m.0dltj	people.person.profession	m.0fj9f
+m.0qcr0	film.film_subject.films	m.0cmdwwg
+m.0d_bk	medicine.disease.parent_disease	m.0qcr0
+m.0dltj	people.person.nationality	m.0jgd
+m.0dltj	people.person.religion	m.0c8wxp
