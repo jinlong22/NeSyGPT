@@ -14,6 +14,8 @@ pip install -r requirements.txt
 
 ## 💡 **Quick start**
 
+NOTE: Please write the API key in `api_key.txt` before running the code. And the `api_key.txt` file should have the same number of keys as `num_process`. The default `num_process` in the following shell script is 5.
+
 ```bash
 # WikiSQL
 >> bash scripts/wikisql/wikisql_gpt3.5.sh
