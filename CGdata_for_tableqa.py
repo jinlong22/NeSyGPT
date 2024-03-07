@@ -75,7 +75,8 @@ def read_csv(csv_file):
     with open(csv_file, 'r', )as f:
         table=[]
         for line in f.readlines():
-            table.append(line.strip().split('\t'))
+            table.append(line.split('\t'))#最后一个为\t会删除掉
+            table[-1][-1] = table[-1][-1].strip()
             # print(line, len(table[-1]))
     try:
         assert len(set([len(i) for i in table]))==1
